@@ -1,0 +1,62 @@
+body{
+    margin: 0px;
+    padding: 0px
+}
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 100px;
+    border: 1px solid black;
+    background: url(flat-design-wildflower-heart-background_23-2150435940.avif)center center/cover  no-repeat;
+}
+.gallery img {
+    width:auto;
+    height: 400px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out;
+}
+    .type3{
+    width: 1000px;
+    position: relative;
+    margin: 0px auto;
+    margin: 0px auto;
+}
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 100px;
+    border: 1px solid black;
+    background: url(flat-design-wildflower-heart-background_23-2150435940.avif)center center/cover  no-repeat;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffd3e5;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #f04374;
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+}
+.btn{
+    position: absolute;
+    flex-wrap: wrap-reverse;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+    display: block;
+    margin: 25%;
+    top: 200px;
+    right: 100px;
+}
